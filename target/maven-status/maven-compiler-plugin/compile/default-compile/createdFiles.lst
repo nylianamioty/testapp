@@ -1,3 +1,5 @@
 com\testapp\controllers\HelloController.class
+com\testapp\controllers\ParameterController.class
+com\testapp\controllers\PatternController.class
 com\testapp\controllers\TestController.class
 com\testapp\controllers\HomeController.class
