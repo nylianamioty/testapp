@@ -1,12 +1,11 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Profil ${userName}</title>
+    <title>Profil de ${username}</title>
 </head>
 <body>
-    <h1>Profil de ${userName}</h1>
-    <p><strong>ID:</strong> ${userId}</p>
-    <p><strong>Email:</strong> ${email}</p>
-    <a href="page-accueil"> Retour à l'accueil</a>
+    <h1>Profil de ${username}</h1>
+    <p>Role: ${role}</p>
+    <a href="/article/123">Test article</a>
 </body>
 </html>
