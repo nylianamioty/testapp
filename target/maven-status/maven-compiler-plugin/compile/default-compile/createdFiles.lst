@@ -2,6 +2,8 @@ com\testapp\controllers\ParameterController.class
 com\testapp\controllers\RequestParamController.class
 com\testapp\controllers\PatternController.class
 com\testapp\controllers\HelloController.class
+com\testapp\controllers\HttpMethodController.class
 com\testapp\controllers\UrlInjectionController.class
+com\testapp\controllers\MixedController.class
 com\testapp\controllers\TestController.class
 com\testapp\controllers\HomeController.class
