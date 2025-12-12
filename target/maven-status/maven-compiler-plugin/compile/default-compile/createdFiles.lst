@@ -1,3 +1,4 @@
+com\testapp\controllers\MapController.class
 com\testapp\controllers\ParameterController.class
 com\testapp\controllers\RequestParamController.class
 com\testapp\controllers\PatternController.class
