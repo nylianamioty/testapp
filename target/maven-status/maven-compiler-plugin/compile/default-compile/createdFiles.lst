@@ -9,5 +9,6 @@ com\testapp\controllers\UrlInjectionController.class
 com\testapp\controllers\MixedController.class
 com\testapp\controllers\BindingController.class
 com\testapp\models\Department.class
+com\testapp\controllers\SimpleApiController.class
 com\testapp\controllers\TestController.class
 com\testapp\controllers\HomeController.class
