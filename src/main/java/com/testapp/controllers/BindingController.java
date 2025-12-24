@@ -49,7 +49,7 @@ public class BindingController extends com.monframework.controller.Controller {
     
    @GetMapping("/form")
     public String showForm(HttpServletRequest request) {
-        String contextPath = request.getContextPath(); // Retournera "/testapp-1.0.0"
+        String contextPath = request.getContextPath(); // "/testapp-1.0.0"
         
         return "<!DOCTYPE html>\n" +
             "<html>\n" +
